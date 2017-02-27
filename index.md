@@ -1,5 +1,5 @@
-# Jay Atkinson
-Mobile 435.232.0832 | Email jatkinson10@gmail.com | Twitter @jatkinson10 | Skype jatkinson10
+# My Resume
+Email jatkinson10@gmail.com | Twitter @jatkinson10 | Skype jatkinson10
 
 ## .: Summary
 
@@ -144,7 +144,7 @@ __Summary:__ Full redesign and functionality change to OOTB Consumer Direct Stor
 **Results:**
 - Increase in conversion of multiple products of +100% or more due to Video integration and other features. 
 
-.: Volunteer Work
+## .: Volunteer Work
 
 ### UX Designer Builder Assistant 2010 – present
 **Responsibilities:**
