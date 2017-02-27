@@ -14,7 +14,12 @@ I have over 17 years of experience in software development, web design, usabilit
 Ecommerce Software integration - Web Analytics – Optimization – Personalization – A/B Testing – Omni Channel Strategy and execution -  Solutions Architecture – Emerging tech (i.e. Node, React, Angular, Augmented Reality, etc.)
 
 ## .: Professional Experience 
-### Director of Ecommerce Optimization 10/2014 to date Blue Acorn Charleston, SC
+### Senior Solutions Architect 02/2017 to Current Groupby Inc. Toronto, ON
+**Responsibilities**
+- Forthcoming...
+
+
+### Director of Ecommerce Optimization 10/2014 to 02/2017 Blue Acorn Charleston, SC
 **Responsibilities**
 - People Management: Running Business Strategy, UX & Design, Web Analytics and Testing services.
 - Client Management: Working with existing and future Magento and Sales Force Commerce Cloud customers to best align the capabilities of the platform with their business objectives and any existing ERP, CRM and OMS solutions.
