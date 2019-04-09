@@ -158,7 +158,7 @@ __Summary:__ Full redesign and functionality change to OOTB Consumer Direct Stor
 
 ## .: Volunteer Work
 
-### UX Designer Builder Assistant 2010 – present
+### UX Designer/ Developer Builder Assistant 2010 – present
 **Responsibilities:**
 - Designing & developing an online building and volunteer coordination tool currently built on Node and Angular.
 - The project is used by over 3 million users worldwide on a monthly basis.
