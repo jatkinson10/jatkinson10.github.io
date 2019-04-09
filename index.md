@@ -14,19 +14,23 @@ I have over 17 years of experience in software development, web design, usabilit
 Ecommerce Software integration - Web Analytics – Optimization – Personalization – A/B Testing – Omni Channel Strategy and execution -  Solutions Architecture – Emerging tech (i.e. Node, React, Angular, Augmented Reality, etc.)
 
 ## .: Professional Experience 
-### Senior Principal B2B Product Strategist 12/2018 to Current Oracle Redwood Shores, CA
+### Senior Principal B2B Product Strategist - Oracle
+#### 12/2018 to Current - Redwood Shores, CA (Remote)
+**Responsibilities**
 - B2B evangelist and strategist inside and outside Oracle. 
 - I’m focused on helping organizations tie together their digital presence and internal processes to deliver next level customer experiences. 
 - In addition I’m also working with my peers to look beyond the industry buzz words and helping our customers make practical changes to their business models now.
 
 
-### Senior Solutions Architect 02/2017 to 12/2018 Groupby Inc. Toronto, ON
+### Senior Solutions Architect - Groupby Inc. 
+#### 02/2017 to 12/2018 - Toronto, ON (Remote)
 **Responsibilities**
 - Working with the top retailers in the industry to improve their sites via browser side personalized search and purchasing.
 - Handled Product Management and Sales Consulting in addition to other roles inside the company
 
 
-### Director of Ecommerce Optimization 10/2014 to 02/2017 Blue Acorn Charleston, SC
+### Director of Ecommerce Optimization - Blue Acorn
+####  10/2014 to 02/2017 - Charleston, SC
 **Responsibilities**
 - People Management: Running Business Strategy, UX & Design, Web Analytics and Testing services.
 - Client Management: Working with existing and future Magento and Sales Force Commerce Cloud customers to best align the capabilities of the platform with their business objectives and any existing ERP, CRM and OMS solutions.
@@ -44,13 +48,15 @@ Ecommerce Software integration - Web Analytics – Optimization – Personalizat
 - Assisted in the launch of over 15 sites in the last 3 years on either Magento or SFCC
 - Successfully delivering 14% lift in revenue for ongoing optimization efforts across all types of clients
 
-### Council Member 01/2015 to present GLG – Austin, TX 
+### Council Member - GLG
+#### 01/2015 to Current – Austin, TX (Remote)
 **Responsibilities**
 - Consult with clients on upcoming trends in the ecommerce space
 -	Give feedback on strengths and weaknesses of the current ecommerce software platforms in the market place
 
 
-### Director of Customer Experience 08/2007 to 09/2014 CrossView – New York, NY 
+### Director of Customer Experience - CrossView
+#### 08/2007 to 09/2014 – New York, NY (Remote)
 **Responsibilities:**
 - People Management: Running Business Strategy, UX & Design, and Frontend Development services. Led a team remotely of over 15 people across all U.S. time zones as well as offshore resources in multiple locations, including India and Palestine.
 - Client Management: Worked with existing and future Hybris and IBM Websphere customers to best align the capabilities of the platform with their business objectives and any existing ERP, CRM and OMS solutions.
@@ -147,7 +153,8 @@ __Summary:__ Full redesign and functionality change to OOTB Consumer Direct Stor
 - Designed custom watch builder to allow customers to get exactly the watch they want 
 - Implemented the designs on IBM Websphere 
 
-### Lead eCommerce Designer & Frontend Developer 08/2004 to 08/2007 Icon Health & Fitness – Logan, UT 
+### Lead eCommerce Designer & Frontend Developer - Icon Health & Fitness
+#### 08/2004 to 08/2007 – Logan, UT 
 **Responsibilities:**
 - Evaluate marketing efforts of the company run eCommerce sites and propose alternative initiatives. 
 - Design and develop custom JSPs utilizing Rational products, WebSphere Commerce Studio, Adobe Photoshop, Adobe Illustrator, and Adobe Flash. Design UI to promote ease of use as well as developing new marketing initiatives. 
