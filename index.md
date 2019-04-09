@@ -1,5 +1,5 @@
-# My Resume
-Email jatkinson10@gmail.com | Twitter @jatkinson10 | Skype jatkinson10
+# Jay Atkinson
+Email jatkinson10@gmail.com | Twitter @jatkinson10 | Skype jatkinson10 | Linkedin https://www.linkedin.com/in/jatkinson10/
 
 ## .: Summary
 
