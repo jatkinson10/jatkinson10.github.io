@@ -15,7 +15,9 @@ Ecommerce Software integration - Web Analytics – Optimization – Personalizat
 
 ## .: Professional Experience 
 ### Senior Principal B2B Product Strategist 12/2018 to Current Oracle Redwood Shores, CA
-- B2B evangelist and strategist inside and outside Oracle. I’m focused on helping organizations tie together their digital presence and internal processes to deliver next level customer experiences. In addition I’m also working with my peers to look beyond the industry buzz words and helping our customers make practical changes to their business models now.
+- B2B evangelist and strategist inside and outside Oracle. 
+- I’m focused on helping organizations tie together their digital presence and internal processes to deliver next level customer experiences. 
+- In addition I’m also working with my peers to look beyond the industry buzz words and helping our customers make practical changes to their business models now.
 
 
 ### Senior Solutions Architect 02/2017 to 12/2018 Groupby Inc. Toronto, ON
