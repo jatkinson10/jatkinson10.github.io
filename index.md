@@ -14,9 +14,14 @@ I have over 17 years of experience in software development, web design, usabilit
 Ecommerce Software integration - Web Analytics – Optimization – Personalization – A/B Testing – Omni Channel Strategy and execution -  Solutions Architecture – Emerging tech (i.e. Node, React, Angular, Augmented Reality, etc.)
 
 ## .: Professional Experience 
-### Senior Solutions Architect 02/2017 to Current Groupby Inc. Toronto, ON
+### Senior Principal B2B Product Strategist 12/2018 to Current Oracle Redwood Shores, CA
+- B2B evangelist and strategist inside and outside Oracle. I’m focused on helping organizations tie together their digital presence and internal processes to deliver next level customer experiences. In addition I’m also working with my peers to look beyond the industry buzz words and helping our customers make practical changes to their business models now.
+
+
+### Senior Solutions Architect 02/2017 to 12/2018 Groupby Inc. Toronto, ON
 **Responsibilities**
-- Forthcoming...
+- Working with the top retailers in the industry to improve their sites via browser side personalized search and purchasing.
+- Handled Product Management and Sales Consulting in addition to other roles inside the company
 
 
 ### Director of Ecommerce Optimization 10/2014 to 02/2017 Blue Acorn Charleston, SC
