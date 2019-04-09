@@ -1,5 +1,5 @@
 # Jay Atkinson
-Email jatkinson10@gmail.com | Twitter [@jatkinson10](https://twitter.com/jatkinson10) | [Linkedin](https://www.linkedin.com/in/jatkinson10/)
+Email jatkinson10@gmail.com | Twitter [@jatkinson10](https://twitter.com/jatkinson10) | Linkedin [jatkinson10](https://www.linkedin.com/in/jatkinson10/)
 
 ## .: Summary
 
