@@ -1,7 +1,7 @@
 # Jay Atkinson
 Email jatkinson10@gmail.com | Twitter [@jatkinson10](https://twitter.com/jatkinson10) | Linkedin [jatkinson10](https://www.linkedin.com/in/jatkinson10/)
 
-[Download PDF version](jatkinson10.github.io/index.pdf)
+[Download PDF version](/index.pdf)
 
 ## .: Summary
 
